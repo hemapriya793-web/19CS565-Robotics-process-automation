@@ -1,6 +1,6 @@
-NAME: Hemapriya.s
-REG NO: 212225240051
-AIM:
+## NAME: Hemapriya.s
+## REG NO: 212225240051
+## AIM:
 To create a workflow in UiPath Studio that displays a welcome message using IF Condition and Switch Case activities.
 SOFTWARE REQUIRED:
 - UiPath Studio
@@ -55,7 +55,7 @@ Step 15:
 Save the workflow using Ctrl + S.
 Step 16:
 Click the Run button to execute the workflow.
-PROCEDURE:
+## PROCEDURE:
 1. Open UiPath Studio.
 2. Create a new Process project.
 3. Name the project WelcomeMessage.
@@ -68,7 +68,7 @@ PROCEDURE:
 10. Add different cases for different names.
 11. Save the workflow.
 12. Click Run to execute the workflow.
-WORKFLOW:
+## WORKFLOW:
 The workflow uses Input Dialog, If Condition and Switch Case activities to display the welcome message.
              START
                 |
@@ -102,9 +102,9 @@ The workflow uses Input Dialog, If Condition and Switch Case activities to displ
           v
           END
 
-OUTPUT SCREENSHOTS:
+## OUTPUT SCREENSHOTS:
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cb51a37f-9f6f-4d1d-86e1-739fe2a7b707" />
 
-RESULT:
+## RESULT:
 Thus, the Welcome Message workflow was successfully created and executed in UiPath Studio using If Condition and Switch Case activities to display different welcome messages based on the user's input.
