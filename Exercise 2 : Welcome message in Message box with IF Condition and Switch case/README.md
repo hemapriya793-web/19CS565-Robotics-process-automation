@@ -5,7 +5,7 @@ To create a workflow in UiPath Studio that displays a welcome message using IF C
 SOFTWARE REQUIRED:
 - UiPath Studio
 - Windows Operating System
-ALGORITHM:
+## ALGORITHM:
 Step 1:
 Launch UiPath Studio from the desktop or Start menu.
 Step 2:
